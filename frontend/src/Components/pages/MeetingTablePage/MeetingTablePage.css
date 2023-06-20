@@ -1,0 +1,40 @@
+.MeetingList {
+    margin-top: 20px;
+  }
+  
+  .MeetingList table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .MeetingList th,
+  .MeetingList td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .MeetingList th {
+    background-color: #f2f2f2;
+  }
+  
+  .MeetingList button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .MeetingList button:hover {
+    background-color: #c82333;
+  }
+  
+  .MeetingList a.button {
+    text-decoration: none;
+  }
+  
+  .MeetingList a.button button {
+    margin-right: 10px;
+  }
+  
